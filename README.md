@@ -10,14 +10,14 @@ In addition to the program it is also included the code that generates inputs. <
 
 ### Requirements:
 
-Compilador g++ com c++ versão 11. <br/>
+g++ compiler with c++ version 11. <br/>
 
 -------------------------------------------
 
 ### How to compile and execute:
 
-Compilar: g++ -std=c++11 ml.cpp -o ml <br/> 
-executar: ./ml <br/>
+Compile: g++ -std=c++11 ml.cpp -o ml <br/> 
+Execute: ./ml <br/>
 
 -------------------------------------------
 
