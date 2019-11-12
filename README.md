@@ -29,7 +29,7 @@ At the beginning of the program the user will be asked for the number of inputs,
 
 ### Autors:
 
-| Nome              | Numero UP     |
+| Name              | Numero UP     |
 | ----------------- | ------------- |
 | Diogo Pereira     | 201605323     |
 | Afonso Fernandes  | 201606852     |
